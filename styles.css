@@ -226,7 +226,7 @@ h1 {
   transform: translateX(-50%);
   width: 5vmin;
   height: 14vmin;
-  background-image: linear-gradient(to bottom, #FFFACD, #FDFD96, #857f33 99%);
+  background-image: linear-gradient(to bottom,  #beffca, #3ff85e, #036300 98%);
 
   clip-path: ellipse(50% 50% at 50% 50%);
   transform-origin: center bottom;
@@ -238,7 +238,7 @@ h1 {
   height: 12vmin;
   bottom: 3vmin;
   border-radius: 50% 50% 50% 50% / 80% 80% 20% 20%;
-  background-color: #FFFACD;
+  background-color: #00ce00;
   background-image: none;
   animation: open-flowe--middle 1.4s 1s backwards;
 }
@@ -276,9 +276,7 @@ h1 {
   transform: rotate(-55deg);
   background-image: linear-gradient(
     to left bottom,
-    #FFFACD,
-    #FDFD96,
-    #857f33 98%
+   #beffca, #3ff85e, #036300 98%
   );
 }
 
@@ -387,3 +385,4 @@ h1 {
     transform: translate(-36vmin, 1.1vmin) rotateY(-80deg) rotateX(35deg);
   }
 }
+
